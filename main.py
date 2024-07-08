@@ -1,4 +1,4 @@
-from imap_tools import MailBox, AND
+from imap_tools import MailBox, AND #pip install imap_tools
 import pandas as pd
 import os
 from tqdm import tqdm
